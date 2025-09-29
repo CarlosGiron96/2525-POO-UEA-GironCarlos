@@ -1,0 +1,9 @@
+01,auto,9,366.0
+02,laptop,8,196.0
+03,robot,6,789.0
+04,celular,9,555.0
+05,juguete,8,14.0
+06,coche,4,879.0
+07,hito,1,2.0
+08,ginebra,7,63.0
+09,audifonos,20,54.0
